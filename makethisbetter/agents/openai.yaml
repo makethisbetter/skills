@@ -1,0 +1,4 @@
+interface:
+  display_name: "MakeThisBetter"
+  short_description: "Set up, authenticate, and manage MakeThisBetter feedback."
+  default_prompt: "/makethisbetter list"
